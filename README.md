@@ -6,15 +6,15 @@ Data Driver
 Bem vindo ao meu perfil descritivo ✍(◔◡◔)
 
 * 🌍  Movido por dados
-* 🧠  Eu estudo sobre Cloud, Terraform, Bigquery, Python, Programação, Automação, Otimização, tecnologia....
+* 🧠  Eu estudo sobre Cloud, Terraform, Bigquery, Python, Programação, Automação, Otimização, estatísitica, tecnologia....
 
 ### Minhas últimas leirutas
 
-» 📕 A Tríade do Tempo [Christian Barbosa]
-» 📗 Pense Dentro da Caixa [Thiago Oliveira]
-» 📘 Data Science Para Negócio [Foster Provosk& Tom Fawcett]
-» 📙 A Coragem para Liderar [Brené Brown]
-» 📒 Os Segredos da Gestão Ágil [João Kepler e Thiago Oliveira]
+<p> » 📕 A Tríade do Tempo [Christian Barbosa]
+<p> » 📗 Pense Dentro da Caixa [Thiago Oliveira]
+<p> » 📘 Data Science Para Negócio [Foster Provosk& Tom Fawcett]
+<p> » 📙 A Coragem para Liderar [Brené Brown]
+<p> » 📒 Os Segredos da Gestão Ágil [João Kepler e Thiago Oliveira]
 
 ### Skills
 
