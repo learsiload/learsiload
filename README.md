@@ -1,11 +1,20 @@
 Estudante eterno ;)
+Lifelong learning 
 -----------
 Data Driver
 -----------
 Bem vindo ao meu perfil descritivo ✍(◔◡◔)
 
-* 🌍  I'm based in Brazil
-* 🧠  I'm learning Cloud, Terraform, Bigquery, Python....
+* 🌍  Movido por dados
+* 🧠  Eu estudo sobre Cloud, Terraform, Bigquery, Python, Programação, Automação, Otimização, tecnologia....
+
+### Minhas últimas leirutas
+
+» 📕 A Tríade do Tempo [Christian Barbosa]
+» 📗 Pense Dentro da Caixa [Thiago Oliveira]
+» 📘 Data Science Para Negócio [Foster Provosk& Tom Fawcett]
+» 📙 A Coragem para Liderar [Brené Brown]
+» 📒 Os Segredos da Gestão Ágil [João Kepler e Thiago Oliveira]
 
 ### Skills
 
